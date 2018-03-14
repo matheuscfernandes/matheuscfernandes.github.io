@@ -1464,6 +1464,9 @@
 		position: relative;
 		max-width: 100%;
 		z-index: 3;
+		/*Newly added justifying lines*/
+		text-align: justify;
+		text-justify: inter-word;
 	}
 
 		#main article {
